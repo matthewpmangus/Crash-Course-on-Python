@@ -1,0 +1,25 @@
+#1
+
+print("Automating with Python is fun!")
+
+#2
+
+color = "Yellow"
+thing = "sunshine"
+print(color + " is the color of " + thing)
+
+#3
+
+print(86400*7)
+
+#4
+
+print(26**6)
+
+#5
+
+disk_size = 16*1024*1024*1024
+sector_size = 512
+sector_amount = (disk_size/sector_size)
+
+print(sector_amount)
