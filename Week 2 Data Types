@@ -1,0 +1,4 @@
+print("1234"+5678)
+
+Why does this code cause an error?
+Because Python doesn't know how to add a number to a string.
