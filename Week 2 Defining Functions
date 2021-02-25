@@ -1,0 +1,6 @@
+def print_seconds(hours, minutes, seconds):
+    secondsinhour = hours * 3600
+    secondsinminute = minutes * 60
+    print(seconds+secondsinhour+secondsinminute)
+
+print_seconds(1,2,3)
