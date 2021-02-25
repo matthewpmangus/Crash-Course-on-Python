@@ -1,0 +1,8 @@
+def print_range(start, end):
+	# Loop through the numbers from start to end
+	n = start
+	while n <= end:
+		n = n + 1
+		print(n)
+
+print_range(0, 4)  # Should print 1 2 3 4 5 (each number on its own line) 
